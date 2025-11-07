@@ -1,69 +1,39 @@
-🌐 Online Banking System
+# Online Banking System 🏦
 
-The Online Banking System is a modern full-stack web application that allows users to manage their banking activities digitally with security and simplicity. Built using React (Vite), Node.js/Express, and MySQL, this system provides a smooth user experience, fast performance, and realistic banking workflow.
+A secure and user-friendly **Online Banking System** built to handle basic banking operations for customers and employees. This system allows users to manage accounts, transfer funds, pay bills, and download account statements — all through an intuitive interface.  
 
-It includes customer and employee dashboards, transaction features, card controls, notifications, and an AI-powered chatbot.
+---
 
+## **Features ✨**
 
-✅ Features
+### Customer Features:
+- 💸 **Send Funds**: Transfer money to other accounts seamlessly.  
+- 🧾 **Pay Bills**: Pay utility bills directly through the platform.  
+- 📄 **Download Statements**: Download monthly transaction statements.  
+- 🔔 **Notifications**: Get notifications for transactions and updates (front-end based).  
 
-👤 User Features
+### Employee Features:
+- 📊 **View Customer Data**: Access customer account details efficiently.  
+- 💰 **Deposit & Withdraw**: Handle deposits and withdrawals for customers.  
+- 📄 **Transaction Tracking**: Monitor and fetch customer transactions.  
 
-🔐 Secure Login & Signup with encrypted passwords
+### General Features:
+- 🔐 **Secure Operations**: Authentication-free dashboard for demo access.  
+- 🖥️ **User-Friendly Interface**: Clean and responsive front-end layout.  
 
-💳 Card Details
+---
 
-💸 Send Money & Pay Bills
+## **Technologies Used 🛠️**
+- **Frontend**: HTML, CSS, JavaScript  
+- **Backend**: Node.js / Express.js  
+- **Database**: MySQL  
+- **Version Control**: Git & GitHub  
 
-📊 Interactive Dashboard with transaction history
+---
 
-🧾 Downloadable Account Statements (PDF)
+## **System Overview 🖥️**
+This Online Banking System is designed to simulate a real-world banking environment.  
+- Customers can perform transactions and download statements.  
+- Employees can manage customer accounts and monitor transactions.  
+- Front-end notifications inform users of updates in real-time.  
 
-🔔 Notification System
-
-🤖 AI Chatbot for banking assistance
-
-🖼️ Profile Image Upload support
-
-🏢 Employee Features
-
-👨‍💼 Employee Login Access
-
-📁 View All Customers
-
-📊 View Customer Transactions
-
-🛠️ Employee Dashboard Panel
-
-🛠️ Tech Stack
-
-
-🎨 Frontend
-
-React (Vite)
-
-Tailwind CSS
-
-React Router
-
-Axios
-
-
-⚙️ Backend
-
-Node.js
-
-Express.js
-
-MySQL (mysql2)
-
-bcrypt (password hashing)
-
-Multer (image uploads)
-
-OpenAI API (chatbot)
-
-
-📌 Overview
-
-The system enables users to perform essential banking operations from any device with internet access. Employees can efficiently manage customer data and transactions while users enjoy a secure, interactive banking experience. The integrated AI chatbot provides instant banking assistance.
